@@ -2,4 +2,4 @@
 Using JAVA on Processing
 
 # Video
-![](https://imgur.com/CNUbZcU)
+[![Watch the video](https://imgur.com/gnVMsTw)](https://imgur.com/CNUbZcU)
