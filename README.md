@@ -12,7 +12,7 @@ The game is built using JAVA on Processing <br>
 ## How to play?
  ◼ You can control the bird using Arrow keys on your keyboard <br>
  ◼ Your scores will go on increasing with time <br>
- ◼ Whenever the bird touches any of the pole, the some score will get deducted out of the total score <br>
+ ◼ Whenever the bird touches any of the pole, then some score will get deducted out of the total score <br>
 
 ![alt text](https://imgur.com/liVKX0d.png)
 
